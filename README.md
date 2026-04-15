@@ -8,13 +8,7 @@ Atlassian Forge lets you build and deploy apps directly on the Atlassian platfor
 
 The plugin ships multiple skills under `skills/`, each with a `SKILL.md` the host can load:
 
-**Forge App Builder** (`skills/forge-app-builder/`) teaches end-to-end Forge development: workflows, decision trees, and guardrails for scenarios such as:
-
-- **Scaffold and create** apps with `forge create`, developer space selection, and template validation
-- **Deploy and install** across environments and products with automated scripts
-- **Choose the right module** for Jira issue panels, Confluence macros, dashboard gadgets, global pages, and more
-- **Handle cross-product apps** that need scopes from both Jira and Confluence
-- **Troubleshoot** common CLI errors, deployment failures, and permission issues
+**Forge App Builder** (`skills/forge-app-builder/`) guides scaffolding through production: `forge create`, dev spaces and templates, deploy and install, module selection, cross-product scopes, and common CLI or permission issues.
 
 **Forge App Review** (`skills/forge-app-review/`) supports pre-deploy review and audits: security, architecture, cost and invocation efficiency, performance, and trigger or scheduling waste.
 
