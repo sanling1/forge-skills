@@ -51,6 +51,17 @@ Add the marketplace, then install the plugin:
 /plugin install forge-skills@atlassian-forge-skills
 ```
 
+### Cursor
+
+The Cursor plugin needs to be installed locally. In your terminal run:
+
+```
+cd ~/.cursor/plugins/local
+git clone https://github.com/atlassian/forge-skills.git
+```
+
+_Cursor Marketplace support coming soon._
+
 ### Gemini CLI
 
 ```bash
@@ -67,9 +78,7 @@ copilot plugin install atlassian/forge-skills
 
 Coming soon
 
-### Cursor
 
-Coming soon
 
 ## Verify the installation
 
